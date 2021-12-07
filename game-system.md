@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Système de jeu
+has_children: true
 nav_order: 3
 ---
 
