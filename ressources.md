@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ressources
 nav_order: 80
 ---
 
