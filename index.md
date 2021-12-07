@@ -1,5 +1,11 @@
-An h1 header
-============
+---
+title: Home
+has_children: true
+nav_order: 2
+---
+
+An h1 Home
+==========
 
 Paragraphs are separated by a blank line.
 
