@@ -2,3 +2,6 @@ title: "Wushu"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time 
