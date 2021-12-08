@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Traits
-has_children: true
+parent: Système de jeu
+has_children: false
 nav_order: 4
 ---
 
