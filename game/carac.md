@@ -4,6 +4,6 @@ parent: Système de jeu
 nav_order: 31
 ---
 
-# Child of test
+# Caracteristiques des personnages
 
 I am a child page.
